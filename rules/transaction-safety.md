@@ -1,0 +1,2 @@
+# Transaction safety
+Default deny. Synthetic lab only in v0.1. No production writes, credentials or network calls. For real environments require independent authorization, vendor-policy approval, environment fingerprint, explicit actions and audit evidence. No self-approval. Never retry an ambiguous write before read-back and reconciliation. Use idempotency keys, version checks, bounded retries and business compensations. Transport reversal cannot undo business postings. Independent UAT and release approval mandatory until scoped authority is earned.

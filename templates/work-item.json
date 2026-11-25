@@ -1,0 +1,15 @@
+{
+  "id": "",
+  "intent": "",
+  "readiness": "R0",
+  "environment": "synthetic",
+  "scope": [],
+  "questions": [],
+  "impact": [],
+  "acceptance": [],
+  "authority": null,
+  "proof": {
+    "level": 0,
+    "evidence": []
+  }
+}

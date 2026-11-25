@@ -1,0 +1,2 @@
+# Learning
+Capture corrections, failures, decisions and successes. Classify cause (data, instruction, model, tool, environment, process, authority, adoption, unknown). Preserve observation separately from generalization. Observed -> candidate -> validated -> enforced. Bind evidence to exact skill version and eval suite; require held-out cases and no safety regression, independent review for protected policy. Keep tenant facts private. Measure time to reusable test, recurrence, human minutes, first-pass acceptance, cost, escaped defects and recovery.
