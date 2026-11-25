@@ -1,0 +1,2 @@
+# Skills and agents
+Agents are replaceable roles: discovery analyst, functional designer, implementation builder, independent verifier, release coordinator, support investigator, learning curator. Same agent must not approve its own change. Canonical SKILL.md files mirrored to Codex .agents/skills and Claude .claude/skills by scripts/sync_skills.py. Runtime-independent Python CLI and evidence schema. Each skill has trigger, inputs, procedure, validation, stop conditions, evidence and evals. No live capability claimed.

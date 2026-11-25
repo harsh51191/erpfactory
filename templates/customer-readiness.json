@@ -1,0 +1,26 @@
+{
+  "landscape": {
+    "status": "unknown"
+  },
+  "network": {
+    "status": "unknown",
+    "flows": []
+  },
+  "identity": {
+    "status": "unknown"
+  },
+  "environments": {
+    "status": "unknown"
+  },
+  "licensing": {
+    "status": "unknown"
+  },
+  "capacity": {
+    "status": "unknown"
+  },
+  "approvers": [],
+  "support": {
+    "status": "unknown"
+  },
+  "evidence": []
+}

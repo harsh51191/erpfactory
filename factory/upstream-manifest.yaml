@@ -1,0 +1,6 @@
+upstream: https://github.com/harsh51191/ai-software-factory
+integration: reference-only
+pin: null
+status: "Upstream rules reviewed; installer and exact revision not yet integrated."
+authority: deny-by-default
+runtime_contract: AGENTS.md
